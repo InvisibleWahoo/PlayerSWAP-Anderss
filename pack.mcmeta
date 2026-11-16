@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Cada 5 minutos rota a todos los jugadores de lugar, al azar"
+  }
+}
